@@ -4,7 +4,7 @@ A deep learning project that predicts NCAA basketball tournament game outcomes u
 
 ## 📋 Project Overview
 
-This project implements a Multi-Layer Perceptron (MLP) neural network to predict the outcome of NCAA Men's Basketball Tournament games. The model is trained on detailed historical game data from the Kaggle March Machine Learning Mania 2025 competition and generates probability predictions for tournament matchups.
+This project implements a Multi-Layer Perceptron (MLP) neural network to predict the outcome of NCAA Men's Basketball Tournament games. The model is trained on detailed historical game data from the Kaggle March Machine Learning Mania 2025 competition and generates probability predictions for tournament matchups. This is my first project every using PyTorch and actually implementing any DL techniques to a data set. It was quite fun, as I got to experiment with the things that I actually learnt about. This project still remains incomplete, as a PoC. 
 
 ### Key Features
 
